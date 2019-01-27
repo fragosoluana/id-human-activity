@@ -28,7 +28,7 @@ java -cp datasets/dist/mobility_analysis.jar dimensionality.main.Merger
 
 
 # ********** FILTER
-python3 datasets/data/filtering.py
+python3 ../main/filtering.py
 
 
 # ********** NORMALIZE
